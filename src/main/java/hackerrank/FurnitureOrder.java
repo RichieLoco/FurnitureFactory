@@ -4,9 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class FurnitureOrder implements FurnitureOrderInterface {
-	/**
-	 * TODO: Create a map of Furniture items to order quantities
-	 */
 
 	private final Map<Furniture, Integer> order;
 
