@@ -32,4 +32,5 @@ public enum Furniture {
 	public float cost() {
 		return this.cost;
 	}
+
 }
